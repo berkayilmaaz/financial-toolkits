@@ -43,7 +43,7 @@ The companion web interface is live at **[projects.brky.ai/finance](https://proj
 ## Project Structure
 
 ```
-financial-mathematics-toolkit/
+financial-toolkits/
 ├── assets/
 │   └── brky-logo.png              # brand logo
 ├── financial_math/
@@ -63,8 +63,8 @@ financial-mathematics-toolkit/
 ## Quick Start
 
 ```bash
-git clone https://github.com/berkayilmaaz/Financial-Mathematics-Toolkit.git
-cd Financial-Mathematics-Toolkit
+git clone https://github.com/berkayilmaaz/financial-toolkits.git
+cd financial-toolkits
 
 pip install -r financial_math/requirements.txt
 
